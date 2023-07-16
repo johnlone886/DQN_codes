@@ -2,8 +2,11 @@
 DQN训练Breakout游戏的代码和pth模型参数文件，以及tensorboard可视化相关文件
 
 normal：同时有target_q与replay
+
 noreplay：没有Memory_Buffer
+
 notarq:没有target_q
+
 noboth：两者皆无
 
 每个文件夹下面包括：
